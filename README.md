@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TalentEmma
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning react.js
-- 💞️ I’m looking to collaborate on any react projects
+- 👀 I’m a software Engr.
+- 🌱 I build systems
+- 💞️ I’m available for contracts (mobile and web apps)
 - 📫 How to reach me emmaifeanyi77@yahoo.com
 
 <!---
